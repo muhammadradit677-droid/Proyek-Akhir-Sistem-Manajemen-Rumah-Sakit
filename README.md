@@ -1,0 +1,1 @@
+Proyek ini mengembangkan Sistem Manajemen Rumah Sakit Terintegrasi berbasis C++ untuk mengatasi masalah administrasi konvensional, khususnya penumpukan antrean pasien dan penjadwalan medis yang tidak efisien.
